@@ -10,6 +10,10 @@
  [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/javascript-kingdom)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:javascriptkingdom@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20on%20GitHub.)
 
+#
+<a href="https://t.co/iHJt5g5FTZ">
+    <img src="https://img.shields.io/discord/735869539195289662?logo=discord&label=discord&colorB=EDED91" alt="discord channel" />
+ </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=javascriptkingdom)
 
